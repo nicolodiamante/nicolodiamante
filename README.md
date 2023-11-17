@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://www.nicolodiamante.com" alt="Nicol&#242; Diamante Portfolio" title="Nicol&#242; Diamante Portfolio">Portfolio</a> ·
-  <a href="https://www.instagram.com/nicolodiamante/" alt="Nicol&#242; Diamante Instagram" title="Nicol&#242; Diamante Instagram">Instagram</a> ·
-  <a href="https://www.linkedin.com/in/nicolodiamante/" alt="Nicol&#242; Diamante LinkedIn" title="Nicol&#242; Diamante LinkedIn">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/nicolodiamante/" alt="Nicol&#242; Diamante LinkedIn" title="Nicol&#242; Diamante LinkedIn">LinkedIn</a> ·
+  <a href="https://www.instagram.com/nicolodiamante/" alt="Nicol&#242; Diamante Instagram" title="Nicol&#242; Diamante Instagram">Instagram</a>
 </p>
 
 <p align="center">
