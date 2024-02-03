@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nicolodiamante/nicolodiamante/assets/48920263/fb216db4-f3c0-425c-892e-e5513d3cfaea" draggable="false" ondragstart="return false;" alt="Welcome to my github page!" title="Welcome to my github page!" />
+  <img src="https://github.com/nicolodiamante/nicolodiamante/assets/48920263/7ac9acaf-21a4-4272-bc9e-773a6bbded36" draggable="false" ondragstart="return false;" alt="Welcome to my github page!" title="Welcome to my github page!" />
 </p>
 
 <p align="center">
