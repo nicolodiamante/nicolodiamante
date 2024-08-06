@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="https://github.com/nicolodiamante/nicolodiamante/assets/48920263/76a99a8b-e78b-4495-9c93-d6237b8411ca" draggable="false" ondragstart="return false;" alt="Welcome to my github page!" title="Welcome to my github page!" />
+    <img src="https://github.com/user-attachments/assets/70dc0197-3811-428f-a19e-357d502f67b3" draggable="false" ondragstart="return false;" alt="Welcome to my github page!" title="Welcome to my github page!" />
   </picture>
 </p>
 
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/nicolodiamante/nicolodiamante/assets/48920263/3445ddc4-50f2-4b3b-b4c7-e59fb0ab5797" draggable="false" ondragstart="return false;" />
+  <img src="https://github.com/user-attachments/assets/6c68e438-a883-4eae-b7cf-5e56ab9c563b" draggable="false" ondragstart="return false;" />
 </p>
 
 <p align="center">
-  <a href="https://nicolodiamante.com" target="_blank"><img src="https://github.com/nicolodiamante/nicolodiamante/assets/48920263/8beb689a-79c9-456b-9fe1-e28b13fa24e3" draggable="false" ondragstart="return false;" alt="Nicol&#242; Diamante Portfolio" title="Nicol&#242; Diamante" width="17px" /></a>
+  <a href="https://nicolodiamante.com" target="_blank"><img src="https://github.com/user-attachments/assets/14723c03-6cb4-46a7-be3e-a954fe1e78ab" draggable="false" ondragstart="return false;" alt="Nicol&#242; Diamante Portfolio" title="Nicol&#242; Diamante" width="17px" /></a>
 </p>
