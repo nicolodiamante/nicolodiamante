@@ -1,11 +1,10 @@
 <p align="center">
   <picture>
-    <img src="https://github.com/user-attachments/assets/70dc0197-3811-428f-a19e-357d502f67b3" draggable="false" ondragstart="return false;" alt="Welcome to my github page!" title="Welcome to my github page!" />
+    <img src="https://github.com/user-attachments/assets/d7aed064-f394-4d87-9c13-40c72fcc395c" draggable="false" ondragstart="return false;" alt="Welcome to my github page!" title="Welcome to my github page!" />
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://www.nicolodiamante.com" alt="Nicol&#242; Diamante Portfolio" title="Nicol&#242; Diamante Portfolio">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/nicolodiamante/" alt="Nicol&#242; Diamante LinkedIn" title="Nicol&#242; Diamante LinkedIn">LinkedIn</a>
 </p>
 
