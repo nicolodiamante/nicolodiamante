@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <a href="https://nicolodiamante.com" target="_blank"><img src="https://github.com/user-attachments/assets/14723c03-6cb4-46a7-be3e-a954fe1e78ab" draggable="false" ondragstart="return false;" alt="Nicol&#242; Diamante Portfolio" title="Nicol&#242; Diamante" width="17px" /></a>
-</p>
+  <a href="https://nicolodiamante.com" target="_blank"><img src="https://raw.githubusercontent.com/nicolodiamante/nicolodiamante/main/assets/ND_logomark.png" draggable="false" ondragstart="return false;" alt="Nicolò Diamante Portfolio" title="Nicolò Diamante" width="17px" /></a>
+  </p>
